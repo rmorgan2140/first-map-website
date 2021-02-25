@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Philadelphia",
+    "flagImage": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg",
+    "funfact": "Philadelphia is widely recognized as the United States' culture capital for its many highly refined sports mascots - most notably Gritty",
+    "skyline": "https://render.fineartamerica.com/images/rendered/medium/print/8/5.5/break/images/artworkimages/medium/2/philadelphia-skyline-at-dusk-2018-jon-holiday.jpg",
+    "bonus": "https://pbs.twimg.com/media/Dn591_aXsAE0rvt.jpg:large",
+    "population": "1,584,064",
+    "longitude": -75.164642,
+    "latitude": 39.952582
+  },
+  {
+    "name": "Pittsburgh",
+    "flagImage": "https://www.crwflags.com/fotw/images/u/us-pa-pb-l.gif",
+    "funfact": "Pittsburgh is known as the 'City of Bridges' for the many spans crossing its three rivers.",
+    "skyline": "https://www.governor.pa.gov/wp-content/uploads/2016/09/20160909-Pittsburgh-Skyline-ar.jpg",
+    "bonus": "https://s3.amazonaws.com/crowdriff-media/full/dfcd004959f9082675eba6c2d302ec714361187c2b43fd1974618cf5fc15798a.jpg",
+    "population": "302,407",
+    "longitude": -79.99798686,
+    "latitude": 40.44077556
+  },
+  {
+    "name": "Allentown",
+    "flagImage": "https://www.crwflags.com/fotw/images/u/us-paall.gif",
+    "funfact": "The Liberty Bell was hidden in Allentown during the British occupation of Philadelphia.",
+    "skyline": "https://ak.picdn.net/shutterstock/videos/1018574962/thumb/1.jpg",
+    "bonus": "https://www.lehighvalleylive.com/resizer/3GZKSnaGw9PCzJ3wNidH8752caA=/450x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/WE36DKX3VFEMFFEF4JQOE3IASY.jpg",
+    "population": "123,828",
+    "longitude": -75.47095351,
+    "latitude": 40.60200055
+  },
+  {
+    "name": "Erie",
+    "flagImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Erie%2C_Pennsylvania.svg/1280px-Flag_of_Erie%2C_Pennsylvania.svg.png",
+    "funfact": "Erie is Pennsylvania's only Great Lakes port city.",
+    "skyline": "https://www.eriepa.com/uploads/panorama-erie-pa-cropped.JPG",
+    "bonus": "https://uncoveringpa.com/wp-content/uploads/2019/06/Presque-Isle-Beaches-4625.jpg",
+    "population": "97,369",
+    "longitude": -80.0858723,
+    "latitude": 42.12933179
+  },
+  {
+    "name": "Reading",
+    "flagImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6UhfBTipcS6hKvPARdSGO13NvXKm5AufhQ&usqp=CAU",
+    "funfact": "Reading is known as 'The Pretzel City' because of the numerous pretzel bakeries that call the surrounding area home.",
+    "skyline": "https://www.albright.edu/wp-content/uploads/2020/10/readingpa-pagoda-992x478.jpg",
+    "bonus": "https://rdgmag.com/wp-content/uploads/2016/09/1455172_628193347222499_1080953978_n.jpg",
+    "population": "89,872",
+    "longitude": -75.92768782,
+    "latitude": 40.33528682
+  },
+  {
+    "name": "Bethlehem",
+    "flagImage": "https://i.redd.it/uxwfctludty21.png",
+    "funfact": "Millionaire serial killer Robert Durst was finally arrested after stealing a sandwich from a Bethlehem Wegmans even though he had more than $30,000 in cash in his car.",
+    "skyline": "http://bethlehempa.org/wp-content/uploads/2018/07/Bethlehem-View.jpg",
+    "bonus": "https://i.pinimg.com/originals/48/fa/46/48fa462bb8719db3004808c3ed76aa41.jpg",
+    "population": "77,283",
+    "longitude": -75.37014446,
+    "latitude": 40.62595247
+  },
+  {
+    "name": "Scranton",
+    "flagImage": "https://www.crwflags.com/fotw/images/u/us-pa-sc2.gif",
+    "funfact": "Scranton was home to America's first electric streetcar line, earning it the nickname the 'Electric City'. More importantly, Scranton was also home to the fictional paper company, Dunder Mifflin, on NBC's 'The Office'.",
+    "skyline": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/lackawannapa-redesign/Scranton_AfterDark_0155AccessAerial_44c662f6-1074-4d66-b293-7380de34fd29.jpg",
+    "bonus": "https://64.media.tumblr.com/dbd1de4f2807bde5a78f8787e7fbe195/tumblr_ncbwmrdE661r7xnjso1_500.png",
+    "population": "77,182",
+    "longitude": -75.66198379,
+    "latitude": 41.40895372
+  },
+  {
+    "name": "Lancaster",
+    "flagImage": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Lancaster%2C_Pennsylvania.svg",
+    "funfact": "Lancaster was the nation's capital for exactly one day in 1777.",
+    "skyline": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lancaster_Pennsylvania_downtown.jpg",
+    "bonus": "https://www.amishfarmandhouse.com/wp-content/uploads/2018/05/horse-buggy-parking-costco-lancaster.jpg",
+    "population": "59,420",
+    "longitude": -76.3070596,
+    "latitude": 40.04109011
+  },
+  {
+    "name": "Harrisburg",
+    "flagImage": "https://www.crwflags.com/fotw/images/u/us-pahrb-l.gif",
+    "funfact": "Harrisburg was rejected as a potential U.S. capital. It also has a 25' tall statue of liberty.",
+    "skyline": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/XOSEMNADFBDNLED5WK6JW4OAVU.JPG",
+    "bonus": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_275,q_75,w_275/https://assets.simpleviewcms.com/simpleview/image/upload/v1/clients/harrisburg/free_region2_68a26788-0dcb-46a4-9ba7-01af669b1136.jpg",
+    "population": "49,229",
+    "longitude": -76.8874683,
+    "latitude": 40.27318971
+  },
+  {
+    "name": "York",
+    "flagImage": "https://www.crwflags.com/fotw/images/u/us-payrk.jpg",
+    "funfact": "York invented the American county fair.",
+    "skyline": "https://www.pa.gov/who-we-are/wp-content/uploads/2019/03/header.jpg",
+    "bonus": "https://uncoveringpa.com/wp-content/uploads/2019/06/York-Fair-7767-001.jpg",
+    "population": "44,118",
+    "longitude": -76.73269482,
+    "latitude": 39.96097596
+  },
+  {
+    "name": "Altoona",
+    "flagImage": "https://preview.redd.it/cvmk3jc8xnk11.png?auto=webp&s=8fb8b428ec0a2c68ebb4f7524ce4084063f10ae8",
+    "funfact": "Altoona is mostly known for its railroading history, but it is also home to the world's oldest still operating roller coaster",
+    "skyline": "https://www.ilovealtoona.com/wp-content/uploads/2015/02/about-ila.jpg",
+    "bonus": "https://i.pinimg.com/originals/ff/e5/8e/ffe58e210675b937cc8f4eae76a958f2.jpg",
+    "population": "43,702",
+    "longitude": -78.40319757,
+    "latitude": 40.50649162
+  },
+  {
+    "name": "Wilkes-Barre",
+    "flagImage": "https://www.pahomepage.com/wp-content/uploads/sites/91/2016/06/wilkes-barre20logo_1466484839417_9087312_ver1.0.jpg?w=560",
+    "funfact": "Everyone pronounces the name of this Pennsylvania city a little differently.",
+    "skyline": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Downtown_Wilkes_Barre_along_the_Susquehanna_River.jpg/1920px-Downtown_Wilkes_Barre_along_the_Susquehanna_River.jpg",
+    "bonus": "https://i.pinimg.com/originals/49/c8/af/49c8afc25cd2029d7fc3c8a1d87dc203.jpg",
+    "population": "40,806",
+    "longitude": -75.88164465,
+    "latitude": 41.24593346
+  }
+]

@@ -1,0 +1,153 @@
+body {
+  font-family: sans-serif;
+  background-color: white;
+  font-size: 62.5%;
+  color: #003e51}
+
+.container{
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 48px;
+  position: relative;
+  top: 10px;
+
+}
+
+#title {
+  font-family: Futura, sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 2.4rem;
+}
+
+#subtitle {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-size: 2.0rem;
+}
+
+#instructions {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+#plate {
+  width: 220px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#map-container {
+  width: 90%;
+  height: 500px;
+  background-color: steelblue;
+  border: 2px solid #ccc;
+  margin: 0 auto;
+}
+
+.popup {
+  width: 100%;
+  height: 200px;
+  overflow-y: scroll;
+}
+
+
+.flag{
+   width: 95%;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   margin-bottom: 8px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.skyline {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12px;
+  width: 95%;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.cityname{
+  margin-top: 5px;
+  font-family: Helvetica, sans-serif;
+  font-variant: bold;
+  text-align: left;
+  font-size: 1.2rem;
+}
+
+
+.citypop{
+  font-family: Helvetica, sans-serif;
+  font-variant: bold;
+  text-align: left;
+  font-size: 0.8rem;
+}
+
+.bonus {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12px;
+  width: 95%;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#city-name {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 12px;
+  padding-bottom: 20px;
+  width: 90%;
+}
+
+.city-text {
+  font-family: Helvetica, sans-serif;
+  font-variant: bold;
+  text-align: left;
+  font-size: 1.8rem;
+}
+
+#city-fact {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.city-facts {
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+.marker {
+  display: block;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 0;
+  background-size: cover;
+}
+
+.marker:hover {
+  filter: invert(0%) sepia(0%) saturate(1000%) hue-rotate(160deg) brightness(40%) contrast(100%);
+}
